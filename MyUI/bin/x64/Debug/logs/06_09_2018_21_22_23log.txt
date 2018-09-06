@@ -1,0 +1,10 @@
+                                 ***************************************************                             
+VarVsql.txt Modified ! Mode : 0
+                                 ***************************************************                             
+DataBase Build Script Created ! 
+                                 ***************************************************                             
+Files Deleted From the outputFIles ! 
+Sqlcmd : error : Microsoft SQL Server Native Client 11.0 : Fournisseur de canaux nomm?s : Impossible d'ouvrir une connexion ? SQL Server [2]. . [C:\Users\MSI\Downloads\cdsd\Version_75_3_0\Database\Config_DB\Config_DB.vcxproj]
+Sqlcmd : error : Microsoft SQL Server Native Client 11.0 : D?lai d'attente de connexion expir?. [C:\Users\MSI\Downloads\cdsd\Version_75_3_0\Database\Config_DB\Config_DB.vcxproj]
+Sqlcmd : error : Microsoft SQL Server Native Client 11.0 : Une erreur li?e au r?seau ou sp?cifique ? l'instance s'est produite lors de l'?tablissement d'une connexion ? SQL Server. Le serveur est introuvable ou n'est pas accessible. V?rifiez si le nom de l'instance est correct et si SQL Server est configur? pour autoriser les connexions distantes. Pour plus d'informations, consultez la documentation en ligne de SQL Server.. [C:\Users\MSI\Downloads\cdsd\Version_75_3_0\Database\Config_DB\Config_DB.vcxproj]
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MakeFile.Targets(38,5): error MSB3073: La commande "C:\Users\MSI\Downloads\cdsd\Version_75_3_0\\\Database\\\LVSqlGen.exe -PROJConfig_DB -CONFSQL_APPLY_MSFT" s'est arrêtée avec le code -1. [C:\Users\MSI\Downloads\cdsd\Version_75_3_0\Database\Config_DB\Config_DB.vcxproj]

@@ -1,0 +1,11 @@
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\PowerShellConsole.exe.config
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\PowerShellConsole.exe
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\PowerShellConsole.pdb
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\PowerShellConsole\obj\Debug\PowerShellConsole.csprojResolveAssemblyReference.cache
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\PowerShellConsole\obj\Debug\PowerShellConsole.exe
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\PowerShellConsole\obj\Debug\PowerShellConsole.pdb
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\PowerShellConsole.exe.config
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\PowerShellConsole.exe
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\PowerShellConsole.pdb
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\PowerShellConsole\obj\Debug\PowerShellConsole.exe
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\PowerShellConsole\obj\Debug\PowerShellConsole.pdb

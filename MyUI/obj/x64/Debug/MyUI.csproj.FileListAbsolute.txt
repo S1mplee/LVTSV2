@@ -1,0 +1,83 @@
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\MyUI.exe.config
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\MyUI.exe
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\MyUI.pdb
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\MaterialDesignColors.dll
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\ReactiveUI.dll
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\ReactiveUI.WPF.dll
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\Splat.dll
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Drawing.Primitives.dll
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.IO.Compression.dll
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Reactive.dll
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\ReactiveUI.xml
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\ReactiveUI.WPF.xml
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\Splat.pdb
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Reactive.xml
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MyUI.csprojResolveAssemblyReference.cache
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\views\BuildSolution.baml
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\views\DataBaseBuild.baml
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\views\BuildSolution.g.cs
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\views\DataBaseBuild.g.cs
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\App.g.cs
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MyUI_MarkupCompile.cache
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MyUI_MarkupCompile.lref
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\App.baml
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MainWindow.baml
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MyUI.g.resources
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MyUI.Properties.Resources.resources
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MyUI.csproj.GenerateResource.Cache
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MyUI.exe
+C:\Users\ABoumellessa\Desktop\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MyUI.pdb
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\MyUI.exe.config
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\MyUI.exe
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\MyUI.pdb
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\MaterialDesignColors.dll
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\ReactiveUI.dll
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\ReactiveUI.WPF.dll
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\Splat.dll
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Collections.Immutable.dll
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Drawing.Primitives.dll
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.IO.Compression.dll
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Reactive.dll
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.ValueTuple.dll
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\MaterialDesignThemes.Wpf.xml
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\ReactiveUI.xml
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\ReactiveUI.WPF.xml
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\Splat.pdb
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Collections.Immutable.xml
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Reactive.xml
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\bin\x64\Debug\System.ValueTuple.xml
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\views\BuildSolution.baml
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\views\DataBaseBuild.baml
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MainWindow.g.cs
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\views\BuildSolution.g.cs
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\views\DataBaseBuild.g.cs
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\App.g.cs
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MyUI_MarkupCompile.cache
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MyUI_MarkupCompile.lref
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\App.baml
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MainWindow.baml
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MyUI.g.resources
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MyUI.Properties.Resources.resources
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MyUI.csproj.GenerateResource.Cache
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MyUI.exe
+D:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\obj\x64\Debug\MyUI.pdb

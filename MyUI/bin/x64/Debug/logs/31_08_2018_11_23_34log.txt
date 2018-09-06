@@ -1,0 +1,14 @@
+ << Building Project V : 7530 >> 
+                                 ***************************************************                             
+Updated Path Environement ! 
+                                 ***************************************************                             
+Updated Microsoft.cpp files  ! 
+                                 ***************************************************                             
+System.Security.SecurityException: Requested registry access is not allowed.
+   at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at System.Environment.SetEnvironmentVariable(String variable, String value, EnvironmentVariableTarget target)
+   at MyUI.models.Service.Update_MSBUILD(String RockwavePath, String CodjocksoftwarePath, Int32 version, String Rogue, String Codjock) in d:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\models\Service.cs:line 176
+   at MyUI.viewmodels.BuildSolutionVM.ExecuteBuild() in d:\Workstation V2\Workstation\LVTS_WorkStation_LineData\MyUI\viewmodels\BuildSolutionVM.cs:line 352
+The Zone of the assembly that failed was:
+MyComputer

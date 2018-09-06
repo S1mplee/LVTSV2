@@ -1,0 +1,9 @@
+                                 ***************************************************                             
+Files Deleted From the outputFIles ! 
+                                 ***************************************************                             
+ DataBases Created For Version  
+7400                                 ***************************************************                             
+VarVsql.txt Modified ! Mode : 0
+                                 ***************************************************                             
+DataBase Build Script Created ! 
+C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v12.0\CodeAnalysis\Microsoft.CodeAnalysis.targets(214,5): error MSB4175: The task factory "CodeTaskFactory" could not be loaded from the assembly "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Build.Tasks.v12.0.dll". Could not load file or assembly 'file:///C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Build.Tasks.v12.0.dll' or one of its dependencies. The system cannot find the file specified. [D:\TFS\Version_74_0_0\Database\src\SQL.vcxproj]

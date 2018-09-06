@@ -1,0 +1,96 @@
+﻿<Window x:Class="MyUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:viewmodels="clr-namespace:MyUI.viewmodels"
+        xmlns:views="clr-namespace:MyUI.views"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="950" Width="1150">
+
+    <Window.Resources>
+        <DataTemplate x:Key="View1Template" DataType="{x:Type viewmodels:MainWindowViewModel}">
+            <views:BuildSolution/>
+        </DataTemplate>
+        <DataTemplate x:Key="View2Template" DataType="{x:Type viewmodels:MainWindowViewModel}">
+            <views:DataBaseBuild/>
+        </DataTemplate>
+    </Window.Resources>
+
+
+    <!-- View -->
+    <Grid Background="LightGray">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="4*"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="1">
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="LightGray" Offset="1"/>
+                    <GradientStop Color="#FFE6E6E6"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.Effect>
+                <DropShadowEffect BlurRadius="20" Color="#FFDEDEDE" RenderingBias="Quality" ShadowDepth="1"/>
+            </Grid.Effect>
+
+            <Grid Background="Black">
+                <StackPanel Orientation="Horizontal">
+                    <Image Width="50" Margin="5 0 0 0" Height="50" Source="C:\Users\ABoumellessa\Desktop\1200x630wa_burned.png" ></Image>
+                    <TextBlock Margin="30 0 0 0" Text="LVTS/WorkStation" HorizontalAlignment="Right" VerticalAlignment="Center" FontFamily="WS Simple Gallifreyan" Foreground="#ff0000" FontSize="16"/>
+                </StackPanel>
+            </Grid>
+
+            <StackPanel Grid.Row="1">
+                <Button Margin="10" Background="Black" BorderBrush="#FF8522BD" Command="{Binding SwitchSolutionBuild}" >
+                    <Grid Width="150">
+                        <materialDesign:PackIcon Kind="ViewDashboard" VerticalAlignment="Center"/>
+                        <TextBlock HorizontalAlignment="Center" Text="BuildSolution" FontFamily="Champagne &amp; Limousines" Height="17" Margin="33,0" VerticalAlignment="Top" Foreground="#ff0000"/>
+                    </Grid>
+                </Button>
+
+                <Button Margin="10" Background="black" BorderBrush="#FF8522BD" Command="{Binding SwitchDataBaseBuild}" >
+                    <Grid Width="150">
+                        <materialDesign:PackIcon Kind="ViewDashboard" VerticalAlignment="Center"/>
+                        <TextBlock HorizontalAlignment="Center" Foreground="#ff0000" Text="BuildDataBase" FontFamily="Champagne &amp; Limousines"/>
+                    </Grid>
+                </Button>
+
+
+                <Button Margin="0 325 0 0" Background="#ff0000" BorderBrush="#FF8522BD" Command="{Binding ConsoleOpen}" >
+                    <Grid Width="150">
+                        <materialDesign:PackIcon Kind="Engine" VerticalAlignment="Center"/>
+                        <TextBlock Foreground="Black" HorizontalAlignment="Center" Text="ExecuteScript >>" FontFamily="Champagne &amp; Limousines"/>
+                    </Grid>
+                </Button>
+            </StackPanel>
+        </Grid>
+        <ContentControl Content="{Binding }" Grid.Column="1">
+            <ContentControl.Style>
+                <Style TargetType="{x:Type ContentControl}">
+                    <Setter Property="ContentTemplate" Value="{StaticResource View1Template}" />
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding SwitchView}" Value="1">
+                            <Setter Property="ContentTemplate" Value="{StaticResource View2Template}" />
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </ContentControl.Style>
+        </ContentControl>
+
+    </Grid>
+</Window>
